@@ -34,7 +34,7 @@ function Header() {
             <span>series</span>
           </a>
         </NavMenu>
-        <UserImg src="https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-6/317074677_1553207108458730_7256221091778291635_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeG84tw_IYKBp_FJsxVXAInBXAmtV6r9Yl5cCa1Xqv1iXgt-cemMKxafRmzI-JLa23jVcD0QNqeMnxdBF9g1-B4F&_nc_ohc=icu8r2FYf70AX-1DRHb&_nc_ht=scontent.fjsr6-1.fna&oh=00_AfC_hDRBQd4B64K4A1VjIvwWMdfMY79WQGRUb_EGuywIMQ&oe=6428E4BB" />
+        <UserImg src="/images/user-profile.jpeg" />
     </Nav>
   )
 }
