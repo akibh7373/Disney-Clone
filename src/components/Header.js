@@ -43,11 +43,11 @@ export default Header;
 
 const Nav = styled.div`
   padding: 0 36px;
-    height: 70px;
-    background-color: #090b13;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  height: 70px;
+  background-color: #090b13;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 `
 
 const Logo = styled.img`
